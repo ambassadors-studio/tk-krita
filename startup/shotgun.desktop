@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=shotgun_krita
+X-Python-2-Compatible=false
+X-Krita-Manual=shotgun.html
+Name=Shotgun Integration
+Comment=Shotgun integration for Krita.
